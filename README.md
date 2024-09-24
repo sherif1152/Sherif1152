@@ -11,7 +11,7 @@
 <!--[![Sherif's github stats](https://github-readme-stats.vercel.app/api?username=sherif1152)](https://github.com/anuraghazra/github-readme-stats)-->
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sherif1152&hide=repos,forks,prs_merged)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherif1152&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sherif1152&theme=city_light&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sherif1152&theme=city_light&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
