@@ -8,7 +8,8 @@
 ###
 
 # 📊 GitHub Stats:
-[![Sherif's github stats](https://github-readme-stats.vercel.app/api?username=sherif1152)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Sherif's github stats](https://github-readme-stats.vercel.app/api?username=sherif1152)](https://github.com/anuraghazra/github-readme-stats)-->
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sherif1152&hide=repos,forks,prs_merged)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherif1152&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sherif1152&theme=city_light&hide_border=false)
 
