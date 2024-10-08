@@ -3,13 +3,15 @@
 </p>
 
 
-###  I`m a software robotics Engineer,  I'm passionate about robotics, particularly the Robot Operating System (ROS), and I have a keen interest in Autonomous Mobile Robotics (AMR). Eager to merge my love for learning with my proficient software development skills, my goal is to contribute to the ongoing progress of AMR technology for the greater good of society.
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I`m a software robotics Engineer,  I'm passionate about robotics, particularly the Robot Operating System (ROS), and I have a keen interest in Autonomous Mobile Robotics (AMR). Eager to merge my love for learning with my proficient software development skills, my goal is to contribute to the ongoing progress of AMR technology for the greater good of society. </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
 
 ###
 
 # 📊 GitHub Stats:
 <!--[![Sherif's github stats](https://github-readme-stats.vercel.app/api?username=sherif1152)](https://github.com/anuraghazra/github-readme-stats)-->
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sherif1152&hide=repos,forks,prs_merged)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sherif1152&theme=city_light&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherif1152&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
