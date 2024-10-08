@@ -51,10 +51,10 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=sherif1152&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<!--
+<!---->
 # Sherif's GitHub activity graph
 ![Sherif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sherif1152&theme=react-dark&area=true&hide_border=true&)
--->
+
 
 
 
