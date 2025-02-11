@@ -9,14 +9,14 @@
 ###
 
 # 📊 GitHub Stats:
-<!--[![Sherif's github stats](https://github-readme-stats.vercel.app/api?username=sherif1152)](https://github.com/anuraghazra/github-readme-stats)-->
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sherif1152&hide=repos,forks,prs_merged)
+[![Sherif's github stats](https://github-readme-stats.vercel.app/api?username=sherif1152)](https://github.com/anuraghazra/github-readme-stats)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-![](https://github-readme-streak-stats.herokuapp.com/?user=sherif1152&theme=city_light&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherif1152&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sherif1152&hide=repos,forks,prs_merged)-->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=sherif1152&theme=city_light&hide_border=true)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherif1152&align=right&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 
 
