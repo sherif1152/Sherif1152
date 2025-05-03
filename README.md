@@ -1,6 +1,5 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=30&pause=1000&color=9A9A9AFF&center=true&width=435&lines=Hello!👋; I'm+Sharif+Fathey;Software+Robotics+Engineer🤖;Nice+To+Meet+You😍" alt="Typing SVG" /></a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&size=25&letterSpacing=1px&pause=1000&color=9A9A9A&center=true&width=434&height=90&lines=Hello!%F0%9F%91%8B;I'm+Sharif+Fathey;Software+Robotics+Engineer%F0%9F%A4%96;Nice+To+Meet+You%F0%9F%98%8D)](https://git.io/typing-svg)
 <img align='right' src="avatar.png" width="200">
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I`m a software robotics Engineer,  I'm passionate about robotics, particularly the Robot Operating System (ROS), and I have a keen interest in Autonomous Mobile Robotics (AMR). Eager to merge my love for learning with my proficient software development skills, my goal is to contribute to the ongoing progress of AMR technology for the greater good of society. </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
