@@ -24,6 +24,8 @@
 # 💻 Tech Stack:
 
 <div align="left">
+<img src="https://skillicons.dev/icons?i=ubuntu" height="70" alt="ubuntu"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ros" height="70" alt="ros logo"  />
@@ -33,26 +35,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git,docker" height="70" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="70" alt="sqlite"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=qt" height="70" alt="qt"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="70" alt="cmake"  />
+  <img width="12" />
 </div>
 
-##
+
+--------
 
 
-# 🌐 Socials:
+# 🌐 Socials: 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sherif-fathey-71118b220/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-    <!--img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/-->
+    <img src="https://skillicons.dev/icons?i=linkedin" height="70" width="100" alt="linkedin"  />
   </a>
   <a href="mailto:sfathey606@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail" height="70" width="100" alt="gmail"  />
+  </a> 
+  <a href="https://www.youtube.com/channel/UCx8ud1CJksQ2eWp5Wt4Q4AQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="100" height="85" alt="youtube logo"  />
   </a>
-   <a href="https://www.youtube.com/channel/UCx8ud1CJksQ2eWp5Wt4Q4AQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="50" alt="youtube logo"  />
-  </a>
-</div>
 
+  <!-- <a href="https://www.linkedin.com/in/sherif-fathey-71118b220/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  </a> -->
+
+  <!-- <a href="mailto:sfathey606@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+  </a> -->
+</div>
 
 ###
 
