@@ -7,20 +7,18 @@
 </h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
+<!--
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45">&nbsp;**Github Stats**
-
 [![Sherif's github stats](https://github-readme-stats.vercel.app/api?username=sherif1152)](https://github.com/anuraghazra/github-readme-stats)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherif1152&align=right&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 <!-- ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=sherif1152&hide=repos,forks,prs_merged)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sherif1152&theme=city_light&hide_border=true) -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; Tech Stack:
 
